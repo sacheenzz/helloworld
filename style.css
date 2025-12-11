@@ -79,4 +79,5 @@ button:active{
 .column2 {
     grid-column: 3 / span 2;
     width: auto;
+    background-color: red !important;
 }
