@@ -44,6 +44,8 @@ button{
     color: white;
     cursor: pointer;
     border: none;
+    align-items: center;
+    justify-content: center;
 }
 
 .button{
